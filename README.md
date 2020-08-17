@@ -9,10 +9,10 @@
 
 ### Wanna Connect?:
 
-[<img align="left" alt="aqib.engineer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AQIB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AQIB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AQIB | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="immujahidkhan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="immujahidkhan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="immujahidkhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="immujahidkhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -40,5 +40,5 @@
 
 [website]: https://justclack.blogspot.com/
 [twitter]: https://twitter.com/
-[instagram]: https://instagram.com/
+[instagram]: https://www.instagram.com/mujahidkhanofficial/
 [linkedin]: https://www.linkedin.com/
