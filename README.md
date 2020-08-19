@@ -1,7 +1,7 @@
 # Hola!, I'm MUHAMMAD MUJAHID KHAN 👋
 
 ### I'm an Android App Developer, Open Source Contributor, Freelancer and Computer Scientist!
-- 🔭 I’m currently working at Hi5host.com
+- 🔭 I’m currently working as Freelancers 
 - 🌱 I’m learning everything 🤣
 - 👯 Looking forward to participate in opensource community
 - 🥅 2020 Goals: markdown my name on internet
