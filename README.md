@@ -41,4 +41,4 @@
 [website]: https://justclack.blogspot.com/
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/mujahidkhanofficial/
-[linkedin]: https://www.linkedin.com/
+[linkedin]: https://www.linkedin.com/in/iammujahidkhan/
