@@ -39,6 +39,6 @@
 <img align="left" alt="immujahidkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immujahidkhan&show_icons=true&hide_border=true" />
 
 [website]: https://justclack.blogspot.com/
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/immujahidkhan5
 [instagram]: https://www.instagram.com/mujahidkhanofficial/
 [linkedin]: https://www.linkedin.com/in/iammujahidkhan/
