@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Freelancers 
 - 🌱 I’m learning everything 🤣
 - 👯 Looking forward to participate in opensource community
-- 🥅 2020 Goals: markdown my name on internet
+- 🥅 2021 Goals: markdown my name on internet
 - ⚡ Fun fact: I love Jogging and traveling to new places
 
 ### Wanna Connect?:
