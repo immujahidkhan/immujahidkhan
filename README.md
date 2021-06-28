@@ -34,7 +34,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
 <br />
-![](https://hit.yhype.me/github/profile?user_id=18374740)
 
 <img align="left" alt="immujahidkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immujahidkhan&show_icons=true&hide_border=true" />
 
@@ -42,3 +41,4 @@
 [twitter]: https://twitter.com/immujahidkhan5
 [instagram]: https://www.instagram.com/mujahidkhanofficial/
 [linkedin]: https://www.linkedin.com/in/iammujahidkhan/
+![](https://hit.yhype.me/github/profile?user_id=18374740)
