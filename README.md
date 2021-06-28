@@ -41,4 +41,5 @@
 [twitter]: https://twitter.com/immujahidkhan5
 [instagram]: https://www.instagram.com/mujahidkhanofficial/
 [linkedin]: https://www.linkedin.com/in/iammujahidkhan/
+![](https://komarev.com/ghpvc/?username=immujahidkhan)
 ![](https://hit.yhype.me/github/profile?user_id=18374740)
