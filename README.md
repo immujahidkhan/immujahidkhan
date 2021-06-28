@@ -6,7 +6,7 @@
 - 👯 Looking forward to participate in opensource community
 - 🥅 2021 Goals: markdown my name on internet
 - ⚡ Fun fact: I love Jogging and traveling to new places
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=immujahidkhan&label=Profile%20views&color=0e75b6&style=flat" alt="akshaaatt" /> </p>
+
 ### Wanna Connect?:
 
 [<img align="left" alt="immujahidkhan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,6 +14,8 @@
 [<img align="left" alt="immujahidkhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="immujahidkhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+<img src="https://komarev.com/ghpvc/?username=immujahidkhan&label=Profile%20views&color=0e75b6&style=flat" alt="akshaaatt" />
 <br />
 
 ### I'm pro 😎 at:
