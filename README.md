@@ -15,7 +15,7 @@
 [<img align="left" alt="immujahidkhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-![](https://hit.yhype.me/github/profile?user_id=18374740)
+
 ### I'm pro 😎 at:
 <img align="left" alt="ANDROID" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />
 <img align="left" alt="KOTLIN" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
@@ -34,7 +34,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
 <br />
-
+![](https://hit.yhype.me/github/profile?user_id=18374740)
 
 <img align="left" alt="immujahidkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immujahidkhan&show_icons=true&hide_border=true" />
 
