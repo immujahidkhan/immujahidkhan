@@ -1,4 +1,4 @@
-# Hola!, I'm MUHAMMAD MUJAHID KHAN 👋
+# Hola!, I'm MUHAMMAD MUJAHID KHAN 👋 <img src="https://komarev.com/ghpvc/?username=immujahidkhan&label=Profile%20views&color=0e75b6&style=flat" alt="immujahidkhan" />
 
 ### I'm an Android App Developer, Open Source Contributor, Freelancer and Computer Scientist!
 - 🔭 I’m currently working as Freelancers 
@@ -14,8 +14,6 @@
 [<img align="left" alt="immujahidkhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="immujahidkhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-<img src="https://komarev.com/ghpvc/?username=immujahidkhan&label=Profile%20views&color=0e75b6&style=flat" alt="akshaaatt" />
 <br />
 
 ### I'm pro 😎 at:
