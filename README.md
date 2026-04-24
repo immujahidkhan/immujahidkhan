@@ -1,45 +1,67 @@
-# Hola!, I'm MUHAMMAD MUJAHID KHAN 👋 <img src="https://komarev.com/ghpvc/?username=immujahidkhan&label=Profile%20views&color=0e75b6&style=flat" alt="immujahidkhan" />
+# Hey 👋, I'm Muhammad Mujahid Khan  
+<img src="https://komarev.com/ghpvc/?username=immujahidkhan&label=Profile%20views&color=0e75b6&style=flat" alt="immujahidkhan" />
 
-### I'm an Android App Developer, Open Source Contributor, Freelancer and Computer Scientist!
-- 🔭 I’m currently working as Freelancers 
-- 🌱 I’m learning everything 🤣
-- 👯 Looking forward to participate in opensource community
-- 🥅 2022 Goals: markdown my name on internet
-- ⚡ Fun fact: I love Jogging and traveling to new places
+## 🚀 Full-Stack Developer | SaaS Builder | Web3 Enthusiast
 
-### Wanna Connect?:
+I specialize in building scalable web & mobile applications with modern stacks.  
+Focused on performance, clean architecture, and real-world product delivery.
 
-[<img align="left" alt="immujahidkhan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="immujahidkhan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="immujahidkhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="immujahidkhan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
+
+### 🧠 Core Expertise
+
+- ⚡ Frontend: React.js, Next.js, TypeScript
+- 🔥 Backend: Node.js, NestJS, REST APIs
+- 🗄️ Databases: MongoDB, Redis
+- ☁️ Architecture: Scalable SaaS systems, API design
+- 📱 Mobile: Android (Kotlin), iOS (learning & integrating)
+- 🌐 Web3: Smart Contracts, Blockchain integrations, dApps
+
+---
+
+### 🛠️ Tech Stack
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="NestJS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png" />
+<img align="left" alt="Blockchain" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ethereum/ethereum.png" />
+<img align="left" alt="Android" width="26px" src="https://img.icons8.com/color/48/android-os.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/kotlin.png" />
+<img align="left" alt="Swift" width="26px" src="https://img.icons8.com/color/48/swift.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 
 <br />
-
-### I'm pro 😎 at:
-<img align="left" alt="ANDROID" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />
-<img align="left" alt="KOTLIN" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
-<img align="left" alt="JAVA" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
-<img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br />
 <br />
 
-<img align="left" alt="immujahidkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immujahidkhan&show_icons=true&hide_border=true" />
+---
 
-[website]: https://justclack.blogspot.com/
-[twitter]: https://twitter.com/immujahidkhan5
-[instagram]: https://www.instagram.com/mujahidkhanofficial/
-[linkedin]: https://www.linkedin.com/in/iammujahidkhan/
+### 📊 GitHub Stats
 
-![](https://hit.yhype.me/github/profile?user_id=18374740)
+<img src="https://github-readme-stats.vercel.app/api?username=immujahidkhan&show_icons=true&hide_border=true" />
+
+---
+
+### 🌍 Connect With Me
+
+[🌐 Website](https://justclack.blogspot.com/)  
+[🐦 Twitter](https://twitter.com/immujahidkhan5)  
+[📸 Instagram](https://www.instagram.com/mujahidkhanofficial/)  
+[💼 LinkedIn](https://www.linkedin.com/in/iammujahidkhan/)
+
+---
+
+### 🎯 Current Focus
+
+- Building SaaS products with real monetization
+- Scaling backend systems (NestJS + Redis)
+- Exploring Web3 + AI integrations
+- Improving system design & performance optimization
+
+---
+
+### ⚡ Fun Fact
+I enjoy jogging and exploring new places 🌍
